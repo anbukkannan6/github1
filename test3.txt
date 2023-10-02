@@ -1,1 +1,6 @@
-got
+This my new test3.txt file
+Steps to fallow for update your files into main repositary
+1.check the status of the file using (git status)
+2.Add the file into stagging area(git add <Filename>)
+3.Make a commit with commit messang(git commit -m "message")
+4.Push the file into orgin main repositery(git push orgin main)
